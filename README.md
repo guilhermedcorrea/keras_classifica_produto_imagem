@@ -6,7 +6,7 @@ Copy code
 Este projeto contém um código em Python para processar imagens de produtos e prever sua categoria com base na imagem e no texto associado. Ele também identifica as cores presentes na imagem.
 
 ## Requisitos
-Liste aqui os requisitos para rodar o projeto, incluindo bibliotecas Python específicas. Você pode criar um arquivo `requirements.txt` com essas informações.
+
 
 ```plaintext
 opencv-python==4.5.3
