@@ -178,4 +178,3 @@ model.compile(optimizer='adam',
 model.fit(sequences, labels, epochs=5)
 Este é um exemplo simplificado de uma RNN em TensorFlow/Keras para análise de sentimento de texto.
 
-Agora que explicamos as CNNs e as RNNs, podemos abordar o funcionamento do TensorFlow e como esses algoritmos são implementados usando esta biblioteca. Por favor, indique se você deseja continuar com essas explicações.
