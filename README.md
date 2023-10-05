@@ -16,8 +16,8 @@ requests==2.26.0
 tensorflow==2.6.0
 scikit-learn==0.24.2
 webcolors==1.11.1
-Como Usar
-Certifique-se de atender aos requisitos listados no arquivo requirements.txt.
+
+Usando:
 
 Execute o código Python fornecido no arquivo nome_do_arquivo.py.
 Funções Principais
